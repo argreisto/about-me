@@ -1,4 +1,4 @@
-# about it
+## Tentang Koding 
 Tampilan portofolio digital sederhana yang menampilkan profil saya sebagai mahasiswa Teknik Informatika Universitas Pamulang.
 Di dalamnya berisi informasi singkat tentang keahlian, bidang yang digemari, serta proyek-proyek dasar yang saya pelajari.
 
