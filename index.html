@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portofolio Saya</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1> Hai, saya <span class="highlight">Argreisto</span></h1>
+    <p>Mahasiswa Teknik Informatika Universitas Pamulang - Kelas 03TPLP023</p>
+
+    <div class="intro card">
+      <h2>Tentang Saya</h2>
+      <p>
+         Saat ini saya sedang belajar membuat website menggunakan HTML dan CSS untuk membangun struktur dan tampilan web.
+         Selain itu, saya juga mempelajari bahasa pemrograman lain seperti Python dan JavaScript.
+         Web ini adalah hasil latihan sederhana untuk memperkenalkan diri saya.
+      </p>
+    </div>
+
+    <div class="projects card">
+      <h2>Projek Sederhana</h2>
+      <ul>
+        <li>💻 Website Perkenalan Diri</li>
+        <li>🎨 Desain antarmuka di Canva</li>
+        <li>🔧 Belajar Git & GitHub Dasar</li>
+      </ul>
+    </div>
+
+    <div id="profile">
+      <img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="Foto Profil" class="profile-pic">
+      <h2 id="name">Argreisto Daniel Krismiawan</h2>
+      <p id="role">Mahasiswa | Web Developer | Programmer</p>
+    </div>
+
+    <div id="skills" class="card hidden">
+      <h3>Keahlian</h3>
+      <ul>
+        <li>Java & C++</li>
+        <li>Python (Data Science & AI)</li>
+        <li>HTML, CSS</li>
+        <li>JavaScript & C++</li>
+      </ul>
+    </div>
+
+    <div id="fields" class="card hidden">
+      <h3>Bidang yang Digemari</h3>
+      <ul>
+        <li>Web Development</li>
+        <li>Machine Learning & AI</li>
+        <li>Database & Backend</li>
+        <li>UI/UX Design</li>
+      </ul>
+    </div>
+
+    <div id="contact" class="card hidden">
+      <h3>Kontak & Link</h3>
+      <p>Email: argreistod@gmail.com</p>
+      <p>GitHub: <a href="https://github.com/argreisto" target="_blank">github.com/argreisto</a></p>
+    </div>
+
+    <button id="showSkills">Tampilkan Keahlian</button>
+    <button id="showFields">Tampilkan Bidang</button>
+    <button id="showContact">Tampilkan Kontak</button>
+  </div>
+
+  <script>
+    const skillsCard = document.getElementById("skills");
+    const fieldsCard = document.getElementById("fields");
+    const contactCard = document.getElementById("contact");
+
+    document.getElementById("showSkills").addEventListener("click", () => {
+      skillsCard.classList.toggle("hidden");
+    });
+
+    document.getElementById("showFields").addEventListener("click", () => {
+      fieldsCard.classList.toggle("hidden");
+    });
+
+    document.getElementById("showContact").addEventListener("click", () => {
+      contactCard.classList.toggle("hidden");
+    });
+  </script>
+</body>
+</html>
