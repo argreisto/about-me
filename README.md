@@ -1,5 +1,5 @@
 # about-me
-<h1 align="center">👋 Hai, saya <span style="color:#0078D7;">Argreisto</span></h1>
+<h1 align="center"> Hai, saya <span style="color:#0078D7;">Argreisto</span></h1>
 <p align="center">
   Mahasiswa Teknik Informatika di <b>Universitas Pamulang</b><br/>
   <i>Kelas 03TPLP023 – Semester 3</i>
@@ -42,13 +42,6 @@ Website ini adalah latihan sederhana untuk memperkenalkan diri saya secara onlin
 | 📧 **Email** | [argreistod@gmail.com](mailto:argreistod@gmail.com) |
 | 🐙 **GitHub** | [github.com/argreisto](https://github.com/argreisto) |
 | 🌐 **Website Portofolio** | [https://argreisto.github.io/](https://argreisto.github.io/) |
-
----
-
-## ⚡ Fun Fact
-> "Belajar bukan tentang siapa yang paling cepat,  
-> tapi siapa yang paling konsisten."  
-> — *Argreisto Daniel Krismiawan* ✨
 
 ---
 
