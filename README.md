@@ -1,37 +1,50 @@
 # about-me
-<!DOCTYPE html>
-<html lang="en">
+# 🌐 Portofolio Pribadi - Argreisto Daniel Krismiawan
 
-<head>
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>Simple Button Click Example</title>
- <style>
-  body
-    {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin: 50px;
-    }
-    h1{color: #333;}
-    p{font-size: 18px;color: #666;}
-    .styled-button
-    {
-      background-color: #007bff;
-      color: white;
-      padding: 12px 24px;
-      font-size: 16px;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: background 0.3s ease-in-out;
-      margin-top: 20px;
-    }
-    .styled-button:hover
-    {
-      background-color: #0056b3;
-    }
- </style>
-</head>
+Selamat datang di repositori website portofolio saya!  
+Website ini dibuat untuk latihan membangun tampilan web sederhana menggunakan **HTML, CSS, dan JavaScript**.
 
-<body>
+🔗 **Kunjungi Website Saya:**  
+➡️ [https://argreisto.github.io/](https://argreisto.github.io/)
+
+---
+
+## 👨‍💻 Tentang Saya
+Halo! Saya **Argreisto**,  
+Mahasiswa **Teknik Informatika Universitas Pamulang**, Kelas **03TPLP023 - Semester 3**.
+
+Saya sedang belajar membuat website dan memahami dasar-dasar pemrograman menggunakan berbagai bahasa seperti:
+- 🧱 HTML & CSS → untuk struktur dan tampilan web  
+- ⚙️ JavaScript → untuk menambah interaktivitas  
+- 🐍 Python → untuk logika dan analisis data  
+- ☕ Java & C++ → untuk pemrograman berbasis objek  
+
+---
+
+## 🧩 Projek Sederhana
+Beberapa latihan dan proyek yang sudah saya buat:
+- 💻 Website Perkenalan Diri  
+- 🎨 Desain antarmuka di Canva  
+- 🔧 Belajar Git & GitHub Dasar  
+
+---
+
+## 💡 Fitur Website
+- Tampilan sederhana dan bersih  
+- Tombol interaktif untuk menampilkan *Keahlian*, *Bidang*, dan *Kontak*  
+- Gambar profil pribadi  
+- Desain responsif yang nyaman di layar HP maupun PC  
+
+---
+
+## 📬 Kontak Saya
+📧 **Email:** [argreistod@gmail.com](mailto:argreistod@gmail.com)  
+🐙 **GitHub:** [github.com/argreisto](https://github.com/argreisto)  
+
+---
+
+### 🏷️ Lisensi
+Proyek ini dibuat sebagai latihan pribadi dan dapat digunakan untuk pembelajaran non-komersial.
+
+> “Belajar bukan tentang siapa yang paling cepat, tapi siapa yang paling konsisten.”  
+> — *Argreisto Daniel Krismiawan*
